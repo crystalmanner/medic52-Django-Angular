@@ -66,7 +66,7 @@ newrelic>=2.50.0.39
 pytz
 
 # Python Imaging Library
-Pillow==2.8.2
+Pillow==8.1.1
 
 # For cron job
 django-cron==0.4.6
